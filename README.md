@@ -1,6 +1,6 @@
 # FB7
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
    ```bash
    git clone https://github.com/DednaKrAZe/notes-pwa.git
    cd notes-pwa
